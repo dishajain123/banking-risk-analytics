@@ -15,8 +15,8 @@ Interactive dashboard providing insights on applicant profiles to support loan a
 3. **Power BI** - Dashboard creation and visualization
 
 ## Dataset
-Banking dataset with interconnected tables:
-* Banking Relationship, Client-Banking, Gender, Investment Advisor, Period
+Banking dataset (`banking.csv`) containing client information including:
+* Banking relationships, client demographics, financial data, and account details
 
 ## Key Features
 * **Risk Assessment**: Loan repayment probability analysis
